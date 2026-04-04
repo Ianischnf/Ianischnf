@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ianis</h1>
-<h3 align="center">A passionate Fusll-Stack developer from Päris</h3>
+<h3 align="center">A passionate Full-Stack developer from Päris</h3>
 
 - 🔭 I’m currently working on [Skills (volunteer in Qualiscope-Formation)](https://qualiscope-formation.fr/)
 
